@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<menu:dishes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://www.epam.com/menu menuschema.xsd"
+             xmlns:menu="http://www.epam.com/menu">
+    <dish>
+        <type>Холодные закуски</type>
+        <photo> href="d://Menu_card/fish.jpg"</photo>
+        <name>Ассорти рыбное</name>
+        <description>Слабосоленая форель, семга</description>
+        <portion>100/20/15</portion>
+        <price><value>790</value></price>
+    </dish>
+    <dish>
+        <type>Холодные закуски</type>
+        <photo> href="d://Menu_card/tartaletki.jpg"</photo>
+        <name>Тарталетки с красной икрой</name>
+        <description>Тарталетки с красной икрой</description>
+        <portion>60/50</portion>
+        <price><value>850</value></price>
+    </dish>
+    <dish>
+        <type>Холодные закуски</type>
+        <photo> href="d://Menu_card/zakuska.jpg"</photo>
+        <name>Закуска по-русски</name>
+        <description>Кусочки атлантической сельди с отварным картофелем, луком, лимоном и зеленью</description>
+        <portion>70/50/2/10</portion>
+        <price><value>800</value></price>
+    </dish>
+    <dish>
+        <type>Холодные закуски</type>
+        <photo> href="d://Menu_card/roll.jpg"</photo>
+        <name>Куриный рулет</name>
+        <description>Куриный рулет собственного производства</description>
+        <portion>100/5</portion>
+        <price><value>980</value></price>
+    </dish>
+    <dish>
+        <type>Холодные закуски</type>
+        <photo> href="d://Menu_card/basturma.jpg"</photo>
+        <name>Бастурма</name>
+        <description>Вяленая вырезка из говяжьего мяса</description>
+        <portion>50/15</portion>
+        <price><value>970</value></price>
+    </dish>
+    <dish>
+        <type>Холодные закуски</type>
+        <photo> href="d://Menu_card/asort.jpg"</photo>
+        <name>Ассорти мясное</name>
+        <description>Нарезка из буженины, бастурмы, куриного рулета и колбасы</description>
+        <portion>100/30</portion>
+        <price><value>980</value></price>
+    </dish>
+    <dish>
+        <type>Холодные закуски</type>
+        <photo> href="d://Menu_card/yaz.jpg"</photo>
+        <name>Язык отварной</name>
+        <description>Нарезка и нежного говяжьего языка, подается с хреном</description>
+        <portion>80/20/1</portion>
+        <price><value>900</value></price>
+    </dish>
+    <dish>
+        <type>Холодные закуски</type>
+        <photo> href="d://Menu_card/eggplant.jpg"</photo>
+        <name>Ассорти баклажаны</name>
+        <description>Жареные баклажаны с помидорами</description>
+        <portion>100/20/15</portion>
+        <price>
+            <option name="с помидорами">145</option>
+            <option name="с чесноком">155</option>
+            <option name="с орехами">195</option>
+        </price>
+    </dish>
+    <dish>
+        <type>Холодные закуски</type>
+        <photo> href="d://Menu_card/pickles.jpg"</photo>
+        <name>Соленья по-домашнему</name>
+        <description>Маринованные овощи</description>
+        <portion>150/10</portion>
+        <price><value>900</value></price>
+    </dish>
+    <dish>
+        <type>Холодные закуски</type>
+        <photo> href="d://Menu_card/granny.jpg"</photo>
+        <name>Бабушкины угощения</name>
+        <description>Ассорти из маринованных грибов</description>
+        <portion>120/20/10</portion>
+        <price><value>804</value></price>
+    </dish>
+    <dish>
+        <type>Холодные закуски</type>
+        <photo> href="d://Menu_card/cheese.jpg"</photo>
+        <name>Сырная тарелка</name>
+        <description>Сыр Чечел, Дор блю, Российский, Мраморный</description>
+        <portion>100/5</portion>
+        <price><value>680</value></price>
+    </dish>
+    <dish>
+        <type>Холодные закуски</type>
+        <photo> href="d://Menu_card/feta.jpg"</photo>
+        <name>Брынза</name>
+        <description>Рассольный сыр, изготавливаемый из овечьего молока</description>
+        <portion>75/5</portion>
+        <price><value>550</value></price>
+    </dish>
+    <dish>
+        <type>Холодные закуски</type>
+        <photo> href="d://Menu_card/green.jpg"</photo>
+        <name>Зелень</name>
+        <description>Кинза, лук, петрушка, укроп, базилик</description>
+        <portion>30</portion>
+        <price><value>800</value></price>
+    </dish>
+    <dish>
+        <type>Холодные закуски</type>
+        <photo> href="d://Menu_card/green.jpg"</photo>
+        <name>Ассорти овощное</name>
+        <description>Свежие помидоры, болгарский перец, огурцы, редис и зелень</description>
+        <portion>150/10</portion>
+        <price><value>690</value></price>
+    </dish>
+    <dish>
+        <type>Холодные закуски</type>
+        <photo> href="d://Menu_card/buket.jpg"</photo>
+        <name>Овощной букет</name>
+        <description>Корейская морковь, капуста, фунчоза</description>
+        <portion>150/10</portion>
+        <price><value>450</value></price>
+    </dish>
+    <dish>
+        <type>Холодные закуски</type>
+        <photo> href="d://Menu_card/tomato.jpg"</photo>
+        <name>Сеньор помидор</name>
+        <description>Помидор, фаршированный сырным муссом</description>
+        <portion>150/1</portion>
+        <price><value>950</value></price>
+    </dish>
+    <dish>
+        <type>Холодные закуски</type>
+        <photo> href="d://Menu_card/fest.jpg"</photo>
+        <name>Фестиваль салатов</name>
+        <portion>400/10</portion>
+        <price><value>980</value></price>
+    </dish>
+    <dish>
+        <type>Холодные закуски</type>
+        <photo> href="d://Menu_card/olivh.jpg"</photo>
+        <name>Оливки, маслины</name>
+        <portion>100</portion>
+        <price><value>990</value></price>
+    </dish>
+    <dish>
+        <type>Холодные закуски</type>
+        <photo> href="d://Menu_card/lemon.jpg"</photo>
+        <name>Лимон</name>
+        <portion>60</portion>
+        <price><value>300</value></price>
+    </dish>
+    <dish>
+        <type>Холодные закуски</type>
+        <photo> href="d://Menu_card/maconi.jpg"</photo>
+        <name>Мацони</name>
+        <portion>300</portion>
+        <price><value>190</value></price>
+    </dish>
+    <dish>
+        <type>Горячие закуски</type>
+        <photo> href="d://Menu_card/lobio.jpg"</photo>
+        <name>Лобио с шампиньонами</name>
+        <description>Фасоль с шампиньонами и грецким орехом</description>
+        <portion>150/5</portion>
+        <price><value>105</value></price>
+    </dish>
+    <dish>
+        <type>Горячие закуски</type>
+        <photo> href="d://Menu_card/julien.jpg"</photo>
+        <name>Жульен</name>
+        <portion>120/1</portion>
+        <price>
+            <option name="с курицей">145</option>
+            <option name="с грибами">155</option>
+        </price>
+    </dish>
+    <dish>
+        <type>Горячие закуски</type>
+        <photo> href="d://Menu_card/achtamar.jpg"</photo>
+        <name>Ахтамар мясной</name>
+        <description>Колбаса, ветчина, буженина, сыр, запеченные на мангале в лаваше</description>
+        <portion>1 шт.</portion>
+        <price><value>165</value></price>
+    </dish>
+    <dish>
+        <type>Горячие закуски</type>
+        <photo> href="d://Menu_card/greenachtamar.jpg"</photo>
+        <name>Ахтамар с овощами</name>
+        <description>Сыр, помидор, зелень, запеченные на мангале в лаваше</description>
+        <portion>1 шт.</portion>
+        <price><value>150</value></price>
+    </dish>
+    <dish>
+        <type>Горячие закуски</type>
+        <photo> href="d://Menu_card/surprise.jpg"</photo>
+        <name>Сюрприз</name>
+        <portion>1 шт.</portion>
+        <price><value>260</value></price>
+    </dish>
+    <dish>
+        <type>Горячие закуски</type>
+        <photo> href="d://Menu_card/krevetki.jpg"</photo>
+        <name>Креветки</name>
+        <portion>120/30</portion>
+        <price>
+            <option name="отварные">135</option>
+            <option name="жареные">155</option>
+        </price>
+    </dish>
+    <dish>
+        <type>Горячие закуски</type>
+        <photo> href="d://Menu_card/midii.jpg"</photo>
+        <name>Мидии по-турецки</name>
+        <description>Мидии, фаршированные сыром и грецким орехом</description>
+        <portion>120/30</portion>
+        <price><value>190</value></price>
+    </dish>
+    <dish>
+        <type>Горячие закуски</type>
+        <photo> href="d://Menu_card/eskargo.jpg"</photo>
+        <name>Эскарго</name>
+        <description>Виноградные улитки, фаршированные по-бургундски</description>
+        <portion>12 шт.</portion>
+        <price><value>230</value></price>
+    </dish>
+    <dish>
+        <type>Завтрак</type>
+        <photo> href="d://Menu_card/friedeggs.jpg"</photo>
+        <name>Глазунья</name>
+        <description>2 яйца(на выбор: ветчина, сыр, помидоры)</description>
+        <portion>150</portion>
+        <price><value>130</value></price>
+    </dish>
+    <dish>
+        <type>Завтрак</type>
+        <photo> href="d://Menu_card/friedeggs1.jpg"</photo>
+        <name>Омлет</name>
+        <portion>100</portion>
+        <price><value>150</value></price>
+    </dish>
+    <dish>
+        <type>Завтрак</type>
+        <photo> href="d://Menu_card/pancake.jpg"</photo>
+        <name>Блинчики с мясом</name>
+        <description>Жареные блинчики с мясом</description>
+        <portion>150</portion>
+        <price><value>180</value></price>
+    </dish>
+
+</menu:dishes>
